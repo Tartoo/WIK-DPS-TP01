@@ -1,0 +1,12 @@
+C:\Users\Matt\Documents\Ynov\B3\DevOps\Scripts\WIK-DPS-TP01\TP1\target\debug\deps\httparse-a098dbf08d51b332.rmeta: C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\lib.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\iter.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\macros.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\mod.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\sse42.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\avx2.rs
+
+C:\Users\Matt\Documents\Ynov\B3\DevOps\Scripts\WIK-DPS-TP01\TP1\target\debug\deps\libhttparse-a098dbf08d51b332.rlib: C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\lib.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\iter.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\macros.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\mod.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\sse42.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\avx2.rs
+
+C:\Users\Matt\Documents\Ynov\B3\DevOps\Scripts\WIK-DPS-TP01\TP1\target\debug\deps\httparse-a098dbf08d51b332.d: C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\lib.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\iter.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\macros.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\mod.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\sse42.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\avx2.rs
+
+C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\lib.rs:
+C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\iter.rs:
+C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\macros.rs:
+C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\mod.rs:
+C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\sse42.rs:
+C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.8.0\src\simd\avx2.rs:

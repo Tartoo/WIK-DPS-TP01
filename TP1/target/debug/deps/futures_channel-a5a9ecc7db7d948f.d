@@ -1,0 +1,11 @@
+C:\Users\Matt\Documents\Ynov\B3\DevOps\Scripts\WIK-DPS-TP01\TP1\target\debug\deps\futures_channel-a5a9ecc7db7d948f.rmeta: C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\lib.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\lock.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\mpsc\mod.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\mpsc\queue.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\oneshot.rs
+
+C:\Users\Matt\Documents\Ynov\B3\DevOps\Scripts\WIK-DPS-TP01\TP1\target\debug\deps\libfutures_channel-a5a9ecc7db7d948f.rlib: C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\lib.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\lock.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\mpsc\mod.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\mpsc\queue.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\oneshot.rs
+
+C:\Users\Matt\Documents\Ynov\B3\DevOps\Scripts\WIK-DPS-TP01\TP1\target\debug\deps\futures_channel-a5a9ecc7db7d948f.d: C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\lib.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\lock.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\mpsc\mod.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\mpsc\queue.rs C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\oneshot.rs
+
+C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\lib.rs:
+C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\lock.rs:
+C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\mpsc\mod.rs:
+C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\mpsc\queue.rs:
+C:\Users\Matt\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.25\src\oneshot.rs:
